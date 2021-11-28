@@ -1,4 +1,4 @@
-Auth token and info helper for your rocket web api.
+Auth token and credentials helper for your rocket web api.
 
 This is a basic token generator crate for Rust Rocket Web.
 

@@ -3,6 +3,9 @@ name = "rocket-auth-token"
 version = "0.1.0"
 authors = ["Samuelonoja <samiodev@icloud.com>"]
 edition = "2018"
+description = "Auth token and credentials helper for your rocket web api. This is a basic token generator plugin for Rust Rocket Web."
+documentation = "https://docs.rs/rocket-auth-token"
+repository="https://github.com/Samuelonoja/rocket-auth-token/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
