@@ -71,7 +71,7 @@ mod tests {
     fn it_works() {
         let credentials = AuthCredentials {
             email: "my@mail.com".to_string(),
-            password: "SamopE160!".to_string(),
+            password: "Password!".to_string(),
         };
         let hash = encode_credentials(&credentials);
         let decode = decode_token(&hash).unwrap();
