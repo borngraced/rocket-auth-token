@@ -8,7 +8,7 @@ documentation = "https://docs.rs/rocket-auth-token"
 repository="https://github.com/Samuelonoja/rocket-auth-token/"
 homepage="https://github.com/Samuelonoja/rocket-auth-token/"
 license = "MIT OR Apache-2.0"
-keywords = ["rocket", "rocket web", "api", "authentication token", "authentication"]
+keywords = ["rocket", "web", "api", "token", "authentication"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
